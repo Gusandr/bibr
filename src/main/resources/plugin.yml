@@ -1,0 +1,4 @@
+name: Bibr
+version: '${project.version}'
+main: me.gusandr.bibr.bibr.Bibr
+authors: [ Gusandr ]
